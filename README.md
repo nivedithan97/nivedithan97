@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**nivedithan97/nivedithan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 

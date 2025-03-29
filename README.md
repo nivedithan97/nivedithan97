@@ -2,7 +2,10 @@
 
 <!--
 **nivedithan97/nivedithan97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-```python
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
 class tech_enthusiast_intro:
     def __init__(self):
         self.name = 'Niveditha Nagasubramanian'
@@ -35,3 +38,4 @@ class tech_enthusiast_intro:
 
 niveditha_intro = tech_enthusiast_intro()
 niveditha_intro.display_intro()
+```

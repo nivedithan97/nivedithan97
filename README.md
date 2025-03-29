@@ -35,4 +35,3 @@ class tech_enthusiast_intro:
 
 niveditha_intro = tech_enthusiast_intro()
 niveditha_intro.display_intro()
-```

@@ -56,8 +56,6 @@ niveditha_intro.display_intro()
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>       
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/VBA_logo.svg" alt="vba" width="45" height="45" style="display: inline-block;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>

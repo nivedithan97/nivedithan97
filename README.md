@@ -53,7 +53,8 @@ niveditha_intro.display_intro()
 <h2> 🚀 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R)
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)

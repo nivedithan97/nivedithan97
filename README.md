@@ -7,7 +7,7 @@
 class tech_enthusiast_intro:
     def __init__(self):
         self.name = 'Niveditha Nagasubramanian'
-        self.location = f'🇸🇬'
+        self.location = f'Singapore'
         self.occupation = 'Data & AI Consultant'
 
         self.education = 

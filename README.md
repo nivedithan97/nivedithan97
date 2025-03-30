@@ -51,7 +51,7 @@ niveditha_intro.display_intro()
 ```
 
 <h2> 👩🏽‍💻 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
-<p align="left">
+<p align="left" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 15px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>

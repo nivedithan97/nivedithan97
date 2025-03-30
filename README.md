@@ -15,7 +15,7 @@ class tech_enthusiast_intro:
         {'Degree': 'Bachelor of Computer Science and Bachelor of Commerce Specialist', 'Institution': 'Monash University', 'Location': 'Melbourne, Australia'}
         ]
 
-        self.fields_of_interests: ['Data Science', 'Machine Learning & AI', 'Marketing Analytics', 'Predictive Analytics']
+        self.fields_of_interests= ['Data Science', 'Machine Learning & AI', 'Marketing Analytics', 'Predictive Analytics']
 
         self.goals_2025 =  ['Stay consistent with learning new technologies and complete at least one project every month... starting now 💪🏽 (no more procrastination!)']
         

@@ -63,4 +63,5 @@ niveditha_intro.display_intro()
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" onclick="window.open('https://www.postman.com/', '_blank');" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="powerbi" width="45" height="45"/>
+<img src="https://cdn.iconfinder.com/data/icons/logos-3/600/Logo_Tableau-512.png" alt="tableau" width="45" height="45"/>
 </p>

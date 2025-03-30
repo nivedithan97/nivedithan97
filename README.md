@@ -50,16 +50,10 @@ niveditha_intro = tech_enthusiast_intro()
 niveditha_intro.display_intro()
 ```
 
-<h2> 🚀 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
+<h2> 👩🏽‍💻 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
 
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R)
-  ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql)
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  ![Tableau](https://img.shields.io/badge/Powered%20by-Tableau-E97627?style=flat-square&logo=tableau)
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-1A1A1A?style=flat-square&logo=powerbi)
-  ![VBA](https://img.shields.io/badge/-VBA-5A2A5A?style=flat-square&logo=microsoft)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 

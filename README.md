@@ -52,7 +52,7 @@ niveditha_intro.display_intro()
 
 <h2> 👩🏽‍💻 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
 
-<p align="left" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+<p align="left" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 60px;">
 
   <a href="https://www.python.org/" target="_blank" title="Python - Programming Language">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" style="margin-right: 10px;"/>

@@ -51,17 +51,42 @@ niveditha_intro.display_intro()
 ```
 
 <h2> 👩🏽‍💻 &nbsp;Some Tools & Technologies I Have Used and Learned</h2>
+
 <p align="left" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="powerbi" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" style="display: inline-block; margin-right: 10px;"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="display: inline-block; margin-right: 10px;"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" onclick="window.open('https://www.postman.com/', '_blank');" />
+
+  <a href="https://www.python.org/" target="_blank" title="Python - Programming Language">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" title="R - Statistical Computing">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="45" height="45" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL - Relational Database">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI - Data Visualization">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="powerbi" width="45" height="45"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" title="Linux - Operating System">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" style="margin-right: 10px;"/> 
+  </a>
+  <a href="https://www.javascript.com/" target="_blank" title="JavaScript - Programming Language">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5 - Markup Language">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3 - Stylesheet Language">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>      
+  </a>
+  <a href="https://git-scm.com/" target="_blank" title="Git - Version Control">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VSCode - Code Editor">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" title="Postman - API Testing">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
 
 </p>
+

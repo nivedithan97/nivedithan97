@@ -1,4 +1,6 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/github-header-image.png"> </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/github-header-image.png" alt="Banner Image" style="max-width: 100%; height: auto;"/>
+</div>
 
 ## Hi there 👋🏽
 

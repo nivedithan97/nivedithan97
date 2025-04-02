@@ -1,17 +1,13 @@
 ## Hi there 👋🏽
 
-<div style="border: 2px solid #f1c40f; padding: 20px; border-radius: 10px; background-color: #fef9e7; text-align: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Light_bulb_icon.svg" alt="light bulb" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
-  <strong>Hi there 👋🏽</strong>
-  <p style="font-size: 18px; line-height: 1.6;">
-    I'm currently on a journey to <strong>learn</strong> and <strong>grow</strong> in the tech space! 🚀<br>
-    Every day, I'm pushing myself to <strong>expand my knowledge</strong> and <strong>hone my skills</strong> in coding and development. 💻<br>
-    I’m excited to <strong>contribute</strong> what I learn here on GitHub, sharing my progress and brushing up on my <strong>Git skills</strong>. 🌱<br>
-    I'm also <strong>looking forward to learning</strong> from fellow developers and the amazing open-source community. 🤝🏼<br>
-    Let’s connect, collaborate, and grow together!<br><br>
-    Feel free to explore my repositories and reach out if you’d like to collaborate or share ideas! 💬
-  </p>
-</div>
+I'm currently on a journey to **learn** and **grow** in the tech space! 🚀  
+Every day, I'm pushing myself to **expand my knowledge** and **hone my skills** in coding and development. 💻  
+I’m excited to **contribute** what I learn here on GitHub, sharing my progress and brushing up on my **Git skills**. 🌱
+
+I'm also **looking forward to learning** from fellow developers and the amazing open-source community. 🤝🏼  
+Let’s connect, collaborate, and grow together!
+
+Feel free to explore my repositories and reach out if you’d like to collaborate or share ideas! 💬
 
 
 <h2> 🤓 &nbsp;A Little Bit About Me</h2>

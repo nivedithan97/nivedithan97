@@ -1,7 +1,7 @@
+![Banner](./github-header-image.png)
 ## Hi there 👋🏽
 
 I'm currently on a journey to **learn** and **grow** in the tech space! 🚀  
-Every day, I'm pushing myself to **expand my knowledge** and **hone my skills** in coding and development. 💻  
 I’m excited to **contribute** what I learn here on GitHub, sharing my progress and brushing up on my **Git skills**. 🌱
 
 I'm also **looking forward to learning** from fellow developers and the amazing open-source community. 🤝🏼  
@@ -50,7 +50,7 @@ class tech_enthusiast_intro:
         for edu in self.education:
             print(f"  - {edu['Degree']} from {edu['Institution']} in ({edu['Location']})")
         print("\n🔬 Fields of Interest: ")
-        for interest in self.fields_of_interest:
+        for interest in self.fields_of_interests:
             print(f"  - {interest}")
         print(f"\n🎯 2025 Goals: {self.goals_2025}")
     

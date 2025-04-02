@@ -1,5 +1,6 @@
 ## Hi there 👋🏽
 
+![Header](./[github-header-image.png])
 
 <h2> 🤓 &nbsp;A Little Bit About Me</h2>
 

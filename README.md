@@ -1,14 +1,9 @@
 ![Banner](./github-header-image.png)
-## Hi there 👋🏽
 
 I'm currently on a journey to **learn** and **grow** in the tech space! 🚀  
 I’m excited to **contribute** what I learn here on GitHub, sharing my progress and brushing up on my **Git skills**. 🌱
 
 I'm also **looking forward to learning** from fellow developers and the amazing open-source community. 🤝🏼  
-Let’s connect, collaborate, and grow together!
-
-Feel free to explore my repositories and reach out if you’d like to collaborate or share ideas! 💬
-
 
 <h2> 🤓 &nbsp;A Little Bit About Me</h2>
 

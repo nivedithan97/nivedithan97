@@ -1,6 +1,6 @@
 ## Hi there 👋🏽
+<div align="center"> <img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/github-header-image.png"> </div>
 
-![Header](./[github-header-image.png])
 
 <h2> 🤓 &nbsp;A Little Bit About Me</h2>
 

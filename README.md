@@ -88,9 +88,6 @@ niveditha_intro.display_intro()
   <a href="https://code.visualstudio.com/" target="_blank" title="VSCode - Code Editor">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin-right: 10px;"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank" title="Postman - API Testing">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
 
 </p>
 

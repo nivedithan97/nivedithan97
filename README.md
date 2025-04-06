@@ -31,9 +31,9 @@ class tech_enthusiast_intro:
         'Predictive Analytics',
         'Business Intelligence']
 
-        self.goals_2025 =  f'Stay consistent with learning new technologies and complete 
+        self.goals_2025 =  f"Stay consistent with learning new technologies and complete 
                             at least one project every month... starting now 💪🏽 
-                            (no more procrastination!)'
+                            (no more procrastination!)"
         
 
     #display the introduction

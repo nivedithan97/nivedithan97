@@ -7,7 +7,7 @@ I'm also **looking forward to learning** from fellow developers and the amazing 
 
 <h2> 🤓 &nbsp;A Little Bit About Me</h2>
 
-```yaml
+```python
 class tech_enthusiast_intro:
     def __init__(self):
         self.name = 'Niveditha Nagasubramanian'
